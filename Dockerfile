@@ -1,1 +1,1 @@
-FROM docker.io/sonarqube:10.4.1-community
+FROM docker.io/jenkins/jenkins:2.440.1-jdk17
