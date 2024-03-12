@@ -1,1 +1,1 @@
-FROM docker.io/kiwigrid/k8s-sidecar:1.26.0
+FROM docker.io/bitnami/postgresql:11.7.0-debian-10-r9
