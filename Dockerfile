@@ -1,1 +1,1 @@
-FROM docker.io/jenkins/jenkins:2.440.1-jdk17
+FROM docker.io/kiwigrid/k8s-sidecar:1.26.0
