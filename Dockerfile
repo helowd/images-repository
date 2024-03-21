@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/postgresql:11.7.0-debian-10-r9
+FROM docker.io/jenkins/inbound-agent:3206.vb_15dcf73f6a_9-3
