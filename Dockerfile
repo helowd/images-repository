@@ -1,1 +1,1 @@
-FROM docker.io/jenkins/inbound-agent:3206.vb_15dcf73f6a_9-3
+FROM docker.io/flannel/flannel-cni-plugin:v1.4.0-flannel1
